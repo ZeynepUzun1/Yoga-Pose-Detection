@@ -148,6 +148,7 @@ Minor confusion occurs between **Goddess** and **Warrior II** due to similar low
 ├── solution.ipynb
 └── README.md
 ```
+Dataset is available here: https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset
 
 ---
 
